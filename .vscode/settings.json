@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "selection",
+    "files.exclude": {
+        "**/.gitignore": true
+    },
+    "breadcrumbs.symbolSortOrder": "position",
+    "scm.alwaysShowRepositories": false,
+    "scm.alwaysShowActions": false,
+    "scm.countBadge": "focused"
+}
